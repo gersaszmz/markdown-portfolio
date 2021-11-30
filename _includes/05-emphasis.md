@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. _Smart_
+2. _Funny_
+3. **Good looking**
+   1. A lot :heart_eyes:
+
